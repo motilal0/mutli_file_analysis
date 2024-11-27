@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 import numpy as np
 
 def main():
-    st.title("Multi-File Upload for Data Analysis")
+    st.title("Multi-Correlate Data Analysis")
     st.write("Upload multiple files to combine them for analysis.")
 
     # File uploader
